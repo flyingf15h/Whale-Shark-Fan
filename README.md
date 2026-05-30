@@ -7,4 +7,4 @@ A shark shaped fan where the fan is the sharks mouth. Concept:
 I was thinking about how to incorporate more shark things into my life and remembered that my residence next year has no AC. Rumor is it's hot even during winter. Shark blowing fan. 
 
 ## 3D Model
-[Fan blade](https://www.printables.com/model/584385-customizable-replacement-fan-blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255)) model by GCdesign3D on Makerworld  
+[Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
