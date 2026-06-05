@@ -12,10 +12,10 @@ Concept:
 ### Fully assembled 
 The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.  
 <img width="883" height="717" alt="image" src="https://github.com/user-attachments/assets/b8ac15e5-a957-4666-bd2c-8066a8a96cf8" />
-<img width="857" height="709" alt="image" src="https://github.com/user-attachments/assets/7a47872f-07e2-4820-a40f-c37951c91511" />
+<img width="852" height="716" alt="image" src="https://github.com/user-attachments/assets/0640cda3-c779-4a44-99f6-201b33f30845" />
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
-[DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using)
+[DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using. The actual power jack shouldn't intersect the motor column since it's a lot shorter. )
 [PWM module](https://grabcad.com/library/dc-motor-speed-controller-module-1) from GrabCAD
 
 
