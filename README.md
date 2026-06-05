@@ -1,6 +1,6 @@
 # Shark-Breathing-Fan
 ## What and Why 
-A shark shaped fan with a really wide mouth for the fan. I was thinking about shark related items I could buy and was inspired by a whale shark sticker. The residence I'll be going to for uni has no AC and I've heard it's hot even during September. 
+A shark shaped fan with a really wide mouth for the fan. I was thinking about shark related items I could buy and was inspired by a whale shark sticker. The residence I'll be going to for uni has no AC and I've heard it's hot even during September, so I'll need an extra fan anyways 
 
 Concept: 
 
