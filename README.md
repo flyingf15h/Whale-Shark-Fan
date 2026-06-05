@@ -15,6 +15,9 @@ The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/9fd818d6-b9a8-41b2-952d-f96110e6390f" />
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
+[DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using)
+[PWM module](https://grabcad.com/library/dc-motor-speed-controller-module-1) from GrabCAD
+
 
 ### Individually printable parts 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/8d362f78-2331-4045-8b08-eb55deb879e7" />
