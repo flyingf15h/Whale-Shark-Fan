@@ -1,39 +1,51 @@
 # Shark-Breathing-Fan
 ## What and Why 
-A shark shaped fan with a really wide mouth for the fan. I was thinking about shark related items I could buy and was inspired by a whale shark sticker.  
+A shark shaped fan with a really wide mouth for the fan. I was thinking about shark related items I could buy and was inspired by a whale shark sticker. 
+
 Concept: 
 
 <img width="30%" alt="image" src="https://github.com/user-attachments/assets/73ed269e-b65b-4c9b-bcbf-bdadb18ab832" />
 
 ## 3D Model
+
 [Onshape Link](https://cad.onshape.com/documents/12f6a6a5319b53d2241f5f02/w/c131fd40c8fe5ac2b45b1c31/e/70f820d1e6d7ceb5514721d9?renderMode=0&uiState=6a20b89b672360de2a9f7309) to model. 
+
 [Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
 
 ### Fully assembled 
+
 The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.  
-<img width="883" height="717" alt="image" src="https://github.com/user-attachments/assets/b8ac15e5-a957-4666-bd2c-8066a8a96cf8" />
-<img width="852" height="716" alt="image" src="https://github.com/user-attachments/assets/0640cda3-c779-4a44-99f6-201b33f30845" />
+
+<img width="47%" height="717" alt="image" src="https://github.com/user-attachments/assets/b8ac15e5-a957-4666-bd2c-8066a8a96cf8" />
+<img width="47%" height="716" alt="image" src="https://github.com/user-attachments/assets/0640cda3-c779-4a44-99f6-201b33f30845" />
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
-[DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using. The actual power jack shouldn't intersect the motor column since it's a lot shorter. )
+
+[DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using. The actual power jack shouldn't intersect the motor column since it's a lot shorter)
+
 [PWM module](https://grabcad.com/library/dc-motor-speed-controller-module-1) from GrabCAD
 
 
 ### Individually printable parts 
-<img width="1074" height="721" alt="image" src="https://github.com/user-attachments/assets/f5d65cde-6388-4e66-a336-4e79067d1716" />
+
+<img width="80%" height="721" alt="image" src="https://github.com/user-attachments/assets/f5d65cde-6388-4e66-a336-4e79067d1716" />
 
 ### Fan Blade + Frame
-<img width="45%" alt="image" alt="image" src="https://github.com/user-attachments/assets/d5f2f374-2179-4ba8-9174-0b44781656c2" />
-<img width="45%" alt="image" alt="image" src="https://github.com/user-attachments/assets/c91f8cbf-8287-47c0-8f3a-dead211c4c7b" />
+
+<img width="30%" alt="image" alt="image" src="https://github.com/user-attachments/assets/d5f2f374-2179-4ba8-9174-0b44781656c2" />
+<img width="30%" alt="image" alt="image" src="https://github.com/user-attachments/assets/c91f8cbf-8287-47c0-8f3a-dead211c4c7b" />
 
 ### Switch Case
-<img width="70%" alt="image" src="https://github.com/user-attachments/assets/7862b700-4387-4fd0-a302-b4cc590d164a" />
-<img width="432" height="590" alt="image" src="https://github.com/user-attachments/assets/03955001-c781-44fd-89f6-0e77a93428c9" />
+
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/7862b700-4387-4fd0-a302-b4cc590d164a" />
+<img width="30%" height="590" alt="image" src="https://github.com/user-attachments/assets/03955001-c781-44fd-89f6-0e77a93428c9" />
 
 ### Shark Body 
+
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/4fec278f-68ab-41fe-842e-1588418cb665" />
 
 ## Schematic
+
 <img width="40%" height="608" alt="image" src="https://github.com/user-attachments/assets/3fbd0106-d731-487f-9846-69e6e0cba6ee" />
 
 
