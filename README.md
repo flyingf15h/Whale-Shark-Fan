@@ -6,15 +6,9 @@ Concept:
 
 <img width="30%" alt="image" src="https://github.com/user-attachments/assets/73ed269e-b65b-4c9b-bcbf-bdadb18ab832" />
 
-## 3D Model
+## Assembly  
 
-[Onshape Link](https://cad.onshape.com/documents/12f6a6a5319b53d2241f5f02/w/c131fd40c8fe5ac2b45b1c31/e/70f820d1e6d7ceb5514721d9?renderMode=0&uiState=6a20b89b672360de2a9f7309) to model. 
-
-[Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
-
-### Fully assembled 
-
-The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts.  
+The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts. Power goes via the DC Power connector -> PWM module in the fish case -> DC Barrel Jack attached to the shark -> Motor inside the shark. 
 
 <img width="47%" height="717" alt="image" src="https://github.com/user-attachments/assets/b8ac15e5-a957-4666-bd2c-8066a8a96cf8" />
 <img width="47%" height="716" alt="image" src="https://github.com/user-attachments/assets/0640cda3-c779-4a44-99f6-201b33f30845" />
@@ -25,6 +19,11 @@ The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2
 
 [PWM module](https://grabcad.com/library/dc-motor-speed-controller-module-1) from GrabCAD
 
+## 3D Model
+
+[Onshape Link](https://cad.onshape.com/documents/12f6a6a5319b53d2241f5f02/w/c131fd40c8fe5ac2b45b1c31/e/70f820d1e6d7ceb5514721d9?renderMode=0&uiState=6a20b89b672360de2a9f7309) to model. 
+
+[Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
 
 ### Individually printable parts 
 
