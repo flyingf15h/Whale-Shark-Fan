@@ -6,6 +6,9 @@ Concept:
 
 A shark shaped fan with a really wide mouth. I was thinking about shark related items I could buy and was inspired by a whale shark sticker. The residence I'll probably be going to for uni has no AC and I've heard it's hot even during September, so I'll need my fans.  
 
+## Zine 
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/0e92f305-8b70-40e0-92b2-5a9c62756982" />
+
 ## Assembly  
 
 The shark lower + upper body have 6 holes for 2mm magnets. The switch case has 2 holes for heat-set inserts. The fan frame attaches to the shark body with 4 heat-set inserts. 
