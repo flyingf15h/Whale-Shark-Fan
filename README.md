@@ -28,9 +28,9 @@ The PWM module is in a separate case from the shark so I can move it around and 
 
 ## 3D Model
 
-[Onshape Link](https://cad.onshape.com/documents/12f6a6a5319b53d2241f5f02/w/c131fd40c8fe5ac2b45b1c31/e/70f820d1e6d7ceb5514721d9?renderMode=0&uiState=6a20b89b672360de2a9f7309) to model. 
+[Onshape Link](https://cad.onshape.com/documents/12f6a6a5319b53d2241f5f02/w/c131fd40c8fe5ac2b45b1c31/e/70f820d1e6d7ceb5514721d9?renderMode=0&uiState=6a20b89b672360de2a9f7309) 
 
-[Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) model by GCdesign3D on Makerworld  
+[Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) Customizable model by GCdesign3D on Makerworld  
 
 ### Individually printable parts 
 
