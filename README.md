@@ -16,8 +16,6 @@ Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish c
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
 
-[DC barrel jack](https://grabcad.com/library/dc-barrel-jack-adapter-female-with-screw-terminals-1) from GrabCAD (not the exact model, just using it as a placeholder in the assembly because I couldn't find the model I'm using. The actual power jack shouldn't intersect the motor column since it's a lot shorter)
-
 [PWM module](https://grabcad.com/library/dc-motor-speed-controller-module-1) from GrabCAD
 
 ## 3D Model
