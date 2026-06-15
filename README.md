@@ -11,8 +11,8 @@ The shark lower + upper body have 6 holes for 2mm magnets. The PWM module case h
 
 Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish case) ➔ DC Barrel Jack (attached to the shark) ➔ Motor (inside the shark).
 
-<img width="47%"  alt="image" src="https://github.com/user-attachments/assets/b36f2e67-87b6-4c85-a2c9-d9246a92f3c9" />
-<img width="47%"  alt="image" src="https://github.com/user-attachments/assets/2a1e2ac7-d22e-43fa-b875-f65409c1ce66" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/b36f2e67-87b6-4c85-a2c9-d9246a92f3c9" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/2a1e2ac7-d22e-43fa-b875-f65409c1ce66" />
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
 
@@ -26,20 +26,20 @@ Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish c
 
 ### Fan Blade + Frame
 
-<img width="30%" height="250" alt="image" src="https://github.com/user-attachments/assets/91f303f7-4654-470d-abe1-be02dbe0559e" />
-<img width="30%"  alt="image" src="https://github.com/user-attachments/assets/f897cdbe-6970-455f-8cef-b07dd7bbd7ee" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/91f303f7-4654-470d-abe1-be02dbe0559e" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/f897cdbe-6970-455f-8cef-b07dd7bbd7ee" />
 
 
 ### Switch Case
 
-<img width="47%" height="560" alt="image" src="https://github.com/user-attachments/assets/e92f01ec-ecf2-4c2b-8c68-a98761b0e67b" />
+<img height="560" alt="image" src="https://github.com/user-attachments/assets/e92f01ec-ecf2-4c2b-8c68-a98761b0e67b" />
 <img height="560" alt="image" src="https://github.com/user-attachments/assets/d73468ee-130b-42bf-bf31-b5a2f8e0df10" />
 
 
 ### Shark Body 
 
-<img width="47%" height="650" alt="image" src="https://github.com/user-attachments/assets/82f84f66-d00e-4f74-853f-401c57fb432a" />
-<img width="47%" height="650" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
+<img height="650" alt="image" src="https://github.com/user-attachments/assets/82f84f66-d00e-4f74-853f-401c57fb432a" />
+<img height="650" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
 
 
 ## Schematic
