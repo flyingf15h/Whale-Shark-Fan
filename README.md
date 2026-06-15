@@ -24,10 +24,6 @@ Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish c
 
 [Fan blade](https://makerworld.com/en/models/476320-parametric-fan-generator#profileId-387255) Customizable model by GCdesign3D on Makerworld  
 
-### Individually printable parts 
-
-<img width="80%" height="721" alt="image" src="https://github.com/user-attachments/assets/f5d65cde-6388-4e66-a336-4e79067d1716" />
-
 ### Fan Blade + Frame
 
 <img width="30%" alt="image" alt="image" src="https://github.com/user-attachments/assets/d5f2f374-2179-4ba8-9174-0b44781656c2" />
@@ -40,7 +36,9 @@ Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish c
 
 ### Shark Body 
 
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/4fec278f-68ab-41fe-842e-1588418cb665" />
+<img width="47%" height="650" alt="image" src="https://github.com/user-attachments/assets/82f84f66-d00e-4f74-853f-401c57fb432a" />
+<img width="47%" height="623" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
+
 
 ## Schematic
 
