@@ -26,18 +26,20 @@ Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish c
 
 ### Fan Blade + Frame
 
-<img width="30%" alt="image" alt="image" src="https://github.com/user-attachments/assets/d5f2f374-2179-4ba8-9174-0b44781656c2" />
-<img width="30%" alt="image" alt="image" src="https://github.com/user-attachments/assets/c91f8cbf-8287-47c0-8f3a-dead211c4c7b" />
+<img width="30%" height="250" alt="image" src="https://github.com/user-attachments/assets/91f303f7-4654-470d-abe1-be02dbe0559e" />
+<img width="30%"  alt="image" src="https://github.com/user-attachments/assets/f897cdbe-6970-455f-8cef-b07dd7bbd7ee" />
+
 
 ### Switch Case
 
-<img width="55%" alt="image" src="https://github.com/user-attachments/assets/7862b700-4387-4fd0-a302-b4cc590d164a" />
-<img width="30%" height="590" alt="image" src="https://github.com/user-attachments/assets/03955001-c781-44fd-89f6-0e77a93428c9" />
+<img width="47%" height="560" alt="image" src="https://github.com/user-attachments/assets/e92f01ec-ecf2-4c2b-8c68-a98761b0e67b" />
+<img height="560" alt="image" src="https://github.com/user-attachments/assets/d73468ee-130b-42bf-bf31-b5a2f8e0df10" />
+
 
 ### Shark Body 
 
 <img width="47%" height="650" alt="image" src="https://github.com/user-attachments/assets/82f84f66-d00e-4f74-853f-401c57fb432a" />
-<img width="47%" height="623" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
+<img width="47%" height="650" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
 
 
 ## Schematic
