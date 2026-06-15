@@ -3,7 +3,7 @@
 A shark shaped fan where the fan component is the mouth of the shark. I was thinking about shark related items I could buy and was inspired by a whale shark sticker. The residence I'll probably be going to for uni has no AC and I've heard it's hot even during September, so I'll need my fans. Fan speed controlled by a PWM module in an attached fish case.  
 
 ## Zine 
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/95608044-a0c9-4a65-b923-6eed026bf04d" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/042ffca5-dce0-41a6-bc59-6f43c3104aa1" />
 
 ## Assembly  
 
