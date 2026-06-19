@@ -38,8 +38,8 @@ Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish c
 
 ### Shark Body 
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/82f84f66-d00e-4f74-853f-401c57fb432a" />
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
+<img width="677" height="677" alt="image" src="https://github.com/user-attachments/assets/bdd9322d-f81a-4ec4-b70f-978733d7556e" />
+<img height="677" alt="image" src="https://github.com/user-attachments/assets/eb0379ed-bacc-4b22-b4f7-590089c63586" />
 
 
 ## Schematic
