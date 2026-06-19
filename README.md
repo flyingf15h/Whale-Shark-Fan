@@ -12,7 +12,7 @@ The shark lower + upper body have 6 holes for 2mm magnets. The PWM module case h
 Power goes via the Power adapter (US Plug, 6V, 2A) ➔ PWM module (in the fish case) ➔ DC Barrel Jack (attached to the shark) ➔ Motor (inside the shark).
 
 <img width="45%" alt="image" src="https://github.com/user-attachments/assets/51c63ca7-db12-4f62-baca-5ac0950e6478" />
-<img width="53%" alt="image" src="https://github.com/user-attachments/assets/2a1e2ac7-d22e-43fa-b875-f65409c1ce66" />
+<img width="55%" alt="image" src="https://github.com/user-attachments/assets/2a1e2ac7-d22e-43fa-b875-f65409c1ce66" />
 
 [DC motor model](https://grabcad.com/library/n10-dc-gear-motor-1) from GrabCAD
 
